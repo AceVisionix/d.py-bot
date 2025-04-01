@@ -143,4 +143,4 @@ async def activity(ctx, *, activity):
         return await ctx.send("Only Founders Can use This Command lol")
 
 keep_alive.keep_alive()
-client.run("OTA5MDg3OTg3MTM5MjE5NDU2.GunX7X.dogQ2XHpEQDekzr6aInkV_pqqhhZEClk3YQW88")
+client.run("lol u thought")
